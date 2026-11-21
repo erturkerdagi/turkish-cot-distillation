@@ -1,0 +1,10 @@
+outcome,source,df,F,p,partial_eta_sq,r_squared
+accuracy,model,3,535.81,<0.001,0.9853,0.9854
+accuracy,data_version,2,4.88,0.0167,0.289,0.9854
+accuracy,model x data_version,6,0.33,0.9155,0.0758,0.9854
+exhaustion,model,3,189.07,<0.001,0.9594,0.9838
+exhaustion,data_version,2,375.58,<0.001,0.969,0.9838
+exhaustion,model x data_version,6,23.54,<0.001,0.8547,0.9838
+morpheme_load,model,3,57.96,<0.001,0.8787,0.9806
+morpheme_load,data_version,2,499.76,<0.001,0.9766,0.9806
+morpheme_load,model x data_version,6,6.69,0.0003,0.6257,0.9806

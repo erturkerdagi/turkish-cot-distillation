@@ -1,0 +1,1245 @@
+{
+  "ablasyon_egitim": [
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "n": 300,
+      "dogruluk": 0.2433,
+      "kesilme": 0.3833,
+      "morfem": 363.74,
+      "p_dogruluk_vs_orijinal": null,
+      "p_kesilme_vs_orijinal": null
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "n": 300,
+      "dogruluk": 0.23,
+      "kesilme": 0.15,
+      "morfem": 274.52,
+      "p_dogruluk_vs_orijinal": 0.70798,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "n": 300,
+      "dogruluk": 0.2133,
+      "kesilme": 0.1633,
+      "morfem": 286.36,
+      "p_dogruluk_vs_orijinal": 0.28924,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "yalniz_kural1",
+      "n": 300,
+      "dogruluk": 0.2433,
+      "kesilme": 0.2567,
+      "morfem": 331.87,
+      "p_dogruluk_vs_orijinal": 1.0,
+      "p_kesilme_vs_orijinal": 0.00013
+    },
+    {
+      "model": "qwen15",
+      "surum": "yalniz_agirlik",
+      "n": 300,
+      "dogruluk": 0.2533,
+      "kesilme": 0.1833,
+      "morfem": 291.42,
+      "p_dogruluk_vs_orijinal": 0.80719,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "rastgele",
+      "n": 300,
+      "dogruluk": 0.25,
+      "kesilme": 0.2233,
+      "morfem": 307.08,
+      "p_dogruluk_vs_orijinal": 0.89742,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "kesme",
+      "n": 300,
+      "dogruluk": 0.2467,
+      "kesilme": 0.14,
+      "morfem": 287.93,
+      "p_dogruluk_vs_orijinal": 1.0,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "referans",
+      "n": 300,
+      "dogruluk": 0.2067,
+      "kesilme": 0.0167,
+      "morfem": 73.46,
+      "p_dogruluk_vs_orijinal": 0.2284,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "n": 300,
+      "dogruluk": 0.3833,
+      "kesilme": 0.3467,
+      "morfem": 352.48,
+      "p_dogruluk_vs_orijinal": null,
+      "p_kesilme_vs_orijinal": null
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "n": 300,
+      "dogruluk": 0.3967,
+      "kesilme": 0.1833,
+      "morfem": 291.8,
+      "p_dogruluk_vs_orijinal": 0.70354,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "n": 300,
+      "dogruluk": 0.3567,
+      "kesilme": 0.1833,
+      "morfem": 298.52,
+      "p_dogruluk_vs_orijinal": 0.38905,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen3",
+      "surum": "yalniz_kural1",
+      "n": 300,
+      "dogruluk": 0.3533,
+      "kesilme": 0.3367,
+      "morfem": 345.63,
+      "p_dogruluk_vs_orijinal": 0.34247,
+      "p_kesilme_vs_orijinal": 0.81755
+    },
+    {
+      "model": "qwen3",
+      "surum": "yalniz_agirlik",
+      "n": 300,
+      "dogruluk": 0.3467,
+      "kesilme": 0.2433,
+      "morfem": 306.22,
+      "p_dogruluk_vs_orijinal": 0.2284,
+      "p_kesilme_vs_orijinal": 0.00171
+    },
+    {
+      "model": "qwen3",
+      "surum": "rastgele",
+      "n": 300,
+      "dogruluk": 0.3933,
+      "kesilme": 0.21,
+      "morfem": 307.49,
+      "p_dogruluk_vs_orijinal": 0.79484,
+      "p_kesilme_vs_orijinal": 1e-05
+    },
+    {
+      "model": "qwen3",
+      "surum": "kesme",
+      "n": 300,
+      "dogruluk": 0.38,
+      "kesilme": 0.19,
+      "morfem": 309.72,
+      "p_dogruluk_vs_orijinal": 1.0,
+      "p_kesilme_vs_orijinal": 0.0
+    },
+    {
+      "model": "qwen3",
+      "surum": "referans",
+      "n": 300,
+      "dogruluk": 0.3233,
+      "kesilme": 0.02,
+      "morfem": 73.24,
+      "p_dogruluk_vs_orijinal": 0.05666,
+      "p_kesilme_vs_orijinal": 0.0
+    }
+  ],
+  "M3.1_butce": [
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.06,
+      "kesilme": 0.97,
+      "token": 255.3
+    },
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.21,
+      "kesilme": 0.36,
+      "token": 426.6
+    },
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.21,
+      "kesilme": 0.05,
+      "token": 513.2
+    },
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.21,
+      "kesilme": 0.03,
+      "token": 544.6
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.08,
+      "kesilme": 0.79,
+      "token": 243.4
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.23,
+      "kesilme": 0.14,
+      "token": 348.3
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.19,
+      "kesilme": 0.04,
+      "token": 382.5
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.19,
+      "kesilme": 0.04,
+      "token": 423.5
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.09,
+      "kesilme": 0.75,
+      "token": 232.0
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.17,
+      "kesilme": 0.19,
+      "token": 354.9
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.2,
+      "kesilme": 0.03,
+      "token": 366.6
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.19,
+      "kesilme": 0.01,
+      "token": 384.5
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.06,
+      "kesilme": 0.95,
+      "token": 253.8
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.37,
+      "kesilme": 0.38,
+      "token": 427.9
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.42,
+      "kesilme": 0.02,
+      "token": 464.1
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.43,
+      "kesilme": 0.03,
+      "token": 518.5
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.15,
+      "kesilme": 0.84,
+      "token": 248.7
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.37,
+      "kesilme": 0.21,
+      "token": 371.1
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.49,
+      "kesilme": 0.01,
+      "token": 395.4
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.44,
+      "kesilme": 0.02,
+      "token": 407.8
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "butce": 256,
+      "n": 100,
+      "dogruluk": 0.13,
+      "kesilme": 0.87,
+      "token": 250.2
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "butce": 512,
+      "n": 100,
+      "dogruluk": 0.31,
+      "kesilme": 0.15,
+      "token": 368.9
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "butce": 1024,
+      "n": 100,
+      "dogruluk": 0.36,
+      "kesilme": 0.03,
+      "token": 394.5
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "butce": 2048,
+      "n": 100,
+      "dogruluk": 0.36,
+      "kesilme": 0.0,
+      "token": 384.6
+    }
+  ],
+  "M3.2_kaynak": [
+    {
+      "model": "qwen05",
+      "surum": "orijinal",
+      "n": 300,
+      "acik": 155,
+      "son_sayi": 144,
+      "yok": 1,
+      "son_sayidan_dogru": 7,
+      "toplam_dogru": 28
+    },
+    {
+      "model": "qwen05",
+      "surum": "sade_morfem",
+      "n": 300,
+      "acik": 184,
+      "son_sayi": 116,
+      "yok": 0,
+      "son_sayidan_dogru": 5,
+      "toplam_dogru": 30
+    },
+    {
+      "model": "qwen05",
+      "surum": "sade_kelime",
+      "n": 300,
+      "acik": 160,
+      "son_sayi": 140,
+      "yok": 0,
+      "son_sayidan_dogru": 12,
+      "toplam_dogru": 23
+    },
+    {
+      "model": "qwen15",
+      "surum": "orijinal",
+      "n": 300,
+      "acik": 101,
+      "son_sayi": 199,
+      "yok": 0,
+      "son_sayidan_dogru": 43,
+      "toplam_dogru": 73
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_morfem",
+      "n": 300,
+      "acik": 129,
+      "son_sayi": 171,
+      "yok": 0,
+      "son_sayidan_dogru": 35,
+      "toplam_dogru": 69
+    },
+    {
+      "model": "qwen15",
+      "surum": "sade_kelime",
+      "n": 300,
+      "acik": 134,
+      "son_sayi": 165,
+      "yok": 1,
+      "son_sayidan_dogru": 36,
+      "toplam_dogru": 64
+    },
+    {
+      "model": "qwen3",
+      "surum": "orijinal",
+      "n": 300,
+      "acik": 142,
+      "son_sayi": 156,
+      "yok": 2,
+      "son_sayidan_dogru": 38,
+      "toplam_dogru": 115
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_morfem",
+      "n": 300,
+      "acik": 164,
+      "son_sayi": 136,
+      "yok": 0,
+      "son_sayidan_dogru": 45,
+      "toplam_dogru": 119
+    },
+    {
+      "model": "qwen3",
+      "surum": "sade_kelime",
+      "n": 300,
+      "acik": 177,
+      "son_sayi": 123,
+      "yok": 0,
+      "son_sayidan_dogru": 31,
+      "toplam_dogru": 107
+    },
+    {
+      "model": "llama3",
+      "surum": "orijinal",
+      "n": 300,
+      "acik": 210,
+      "son_sayi": 90,
+      "yok": 0,
+      "son_sayidan_dogru": 24,
+      "toplam_dogru": 102
+    },
+    {
+      "model": "llama3",
+      "surum": "sade_morfem",
+      "n": 300,
+      "acik": 217,
+      "son_sayi": 83,
+      "yok": 0,
+      "son_sayidan_dogru": 29,
+      "toplam_dogru": 106
+    },
+    {
+      "model": "llama3",
+      "surum": "sade_kelime",
+      "n": 300,
+      "acik": 241,
+      "son_sayi": 59,
+      "yok": 0,
+      "son_sayidan_dogru": 20,
+      "toplam_dogru": 104
+    }
+  ],
+  "M3.4_taban": [
+    {
+      "model": "qwen05",
+      "surum": "TABAN",
+      "n": 300,
+      "dogruluk": 0.0167,
+      "kesilme": 0.3067
+    },
+    {
+      "model": "qwen15",
+      "surum": "TABAN",
+      "n": 300,
+      "dogruluk": 0.1333,
+      "kesilme": 0.2467
+    },
+    {
+      "model": "qwen3",
+      "surum": "TABAN",
+      "n": 300,
+      "dogruluk": 0.3667,
+      "kesilme": 0.1067
+    },
+    {
+      "model": "llama3",
+      "surum": "TABAN",
+      "n": 300,
+      "dogruluk": 0.2733,
+      "kesilme": 0.1233
+    }
+  ],
+  "M4_eslesmis": [
+    {
+      "model": "qwen05",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "dogru",
+      "fark": -0.0067,
+      "ga_alt": -0.0433,
+      "ga_ust": 0.03,
+      "p": 0.855536,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen05",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "kesildi",
+      "fark": 0.16,
+      "ga_alt": 0.1033,
+      "ga_ust": 0.2133,
+      "p": 0.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen05",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.0167,
+      "ga_alt": -0.0167,
+      "ga_ust": 0.0533,
+      "p": 0.458258,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen05",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.13,
+      "ga_alt": 0.07,
+      "ga_ust": 0.19,
+      "p": 2.8e-05,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen05",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.0233,
+      "ga_alt": -0.0133,
+      "ga_ust": 0.06,
+      "p": 0.296206,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen05",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": -0.03,
+      "ga_alt": -0.0767,
+      "ga_ust": 0.0167,
+      "p": 0.271679,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "dogru",
+      "fark": 0.0133,
+      "ga_alt": -0.0367,
+      "ga_ust": 0.0667,
+      "p": 0.707981,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "kesildi",
+      "fark": 0.2333,
+      "ga_alt": 0.1733,
+      "ga_ust": 0.2933,
+      "p": 0.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.03,
+      "ga_alt": -0.02,
+      "ga_ust": 0.0767,
+      "p": 0.289244,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.22,
+      "ga_alt": 0.1567,
+      "ga_ust": 0.2833,
+      "p": 0.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.0167,
+      "ga_alt": -0.03,
+      "ga_ust": 0.0667,
+      "p": 0.590053,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen15",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": -0.0133,
+      "ga_alt": -0.0633,
+      "ga_ust": 0.0367,
+      "p": 0.694004,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "dogru",
+      "fark": -0.0133,
+      "ga_alt": -0.0633,
+      "ga_ust": 0.0367,
+      "p": 0.703537,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "kesildi",
+      "fark": 0.1633,
+      "ga_alt": 0.1033,
+      "ga_ust": 0.2233,
+      "p": 0.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.0267,
+      "ga_alt": -0.0267,
+      "ga_ust": 0.08,
+      "p": 0.389052,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.1633,
+      "ga_alt": 0.1067,
+      "ga_ust": 0.2233,
+      "p": 0.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.04,
+      "ga_alt": -0.0133,
+      "ga_ust": 0.0933,
+      "p": 0.175286,
+      "marj_icinde": false
+    },
+    {
+      "model": "qwen3",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.0,
+      "ga_alt": -0.05,
+      "ga_ust": 0.0533,
+      "p": 1.0,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "dogru",
+      "fark": -0.0133,
+      "ga_alt": -0.0567,
+      "ga_ust": 0.03,
+      "p": 0.651588,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "orijinal",
+      "v2": "sade_morfem",
+      "olcut": "kesildi",
+      "fark": 0.0333,
+      "ga_alt": -0.0067,
+      "ga_ust": 0.0733,
+      "p": 0.132498,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": -0.0067,
+      "ga_alt": -0.0533,
+      "ga_ust": 0.04,
+      "p": 0.889884,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "orijinal",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.06,
+      "ga_alt": 0.0233,
+      "ga_ust": 0.0967,
+      "p": 0.003933,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "dogru",
+      "fark": 0.0067,
+      "ga_alt": -0.04,
+      "ga_ust": 0.0533,
+      "p": 0.889884,
+      "marj_icinde": false
+    },
+    {
+      "model": "llama3",
+      "v1": "sade_morfem",
+      "v2": "sade_kelime",
+      "olcut": "kesildi",
+      "fark": 0.0267,
+      "ga_alt": -0.0067,
+      "ga_ust": 0.0633,
+      "p": 0.200488,
+      "marj_icinde": false
+    }
+  ],
+  "R3-3_varyans": {
+    "dogruluk": {
+      "tohum_ici": 0.00028487654320987664,
+      "kosullar_arasi": 0.01397758136924804,
+      "tohum_payi": 0.019973874416207307
+    },
+    "kesilme": {
+      "tohum_ici": 0.0002481481481481483,
+      "kosullar_arasi": 0.01097563598952488,
+      "tohum_payi": 0.022109134058916034
+    },
+    "morfem": {
+      "tohum_ici": 35.525842901234604,
+      "kosullar_arasi": 1306.3864291432858,
+      "tohum_payi": 0.02647404278307097
+    }
+  },
+  "tohumlar": [
+    {
+      "model": "llama3",
+      "versiyon": "orijinal",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.34,
+      "kesilme": 0.11,
+      "morfem": 327.91
+    },
+    {
+      "model": "llama3",
+      "versiyon": "orijinal",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.38333333333333336,
+      "kesilme": 0.08666666666666667,
+      "morfem": 316.3833333333333
+    },
+    {
+      "model": "llama3",
+      "versiyon": "orijinal",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.36,
+      "kesilme": 0.11666666666666667,
+      "morfem": 326.29333333333335
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_kelime",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.3466666666666667,
+      "kesilme": 0.05,
+      "morfem": 280.77666666666664
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_kelime",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.3566666666666667,
+      "kesilme": 0.056666666666666664,
+      "morfem": 276.93
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_kelime",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.3433333333333333,
+      "kesilme": 0.05,
+      "morfem": 270.87333333333333
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_morfem",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.35333333333333333,
+      "kesilme": 0.07666666666666666,
+      "morfem": 276.06333333333333
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_morfem",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.35,
+      "kesilme": 0.07,
+      "morfem": 275.04333333333335
+    },
+    {
+      "model": "llama3",
+      "versiyon": "sade_morfem",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.34,
+      "kesilme": 0.06,
+      "morfem": 265.42333333333335
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "orijinal",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.09333333333333334,
+      "kesilme": 0.27,
+      "morfem": 333.16
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "orijinal",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.11,
+      "kesilme": 0.2866666666666667,
+      "morfem": 329.92
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "orijinal",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.11666666666666667,
+      "kesilme": 0.2866666666666667,
+      "morfem": 329.3066666666667
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_kelime",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.07666666666666666,
+      "kesilme": 0.14,
+      "morfem": 267.24333333333334
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_kelime",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.07666666666666666,
+      "kesilme": 0.11333333333333333,
+      "morfem": 250.18
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_kelime",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.08666666666666667,
+      "kesilme": 0.11666666666666667,
+      "morfem": 258.5733333333333
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_morfem",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.1,
+      "kesilme": 0.11,
+      "morfem": 260.1666666666667
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_morfem",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.09,
+      "kesilme": 0.11,
+      "morfem": 243.43
+    },
+    {
+      "model": "qwen05",
+      "versiyon": "sade_morfem",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.08333333333333333,
+      "kesilme": 0.09666666666666666,
+      "morfem": 243.10333333333332
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "orijinal",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.24333333333333335,
+      "kesilme": 0.38333333333333336,
+      "morfem": 363.74333333333334
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "orijinal",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.24666666666666667,
+      "kesilme": 0.3433333333333333,
+      "morfem": 361.2033333333333
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "orijinal",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.2633333333333333,
+      "kesilme": 0.34,
+      "morfem": 353.44666666666666
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_kelime",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.21333333333333335,
+      "kesilme": 0.16333333333333333,
+      "morfem": 286.3566666666667
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_kelime",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.19333333333333333,
+      "kesilme": 0.15666666666666668,
+      "morfem": 282.4
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_kelime",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.26,
+      "kesilme": 0.11,
+      "morfem": 275.91333333333336
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_morfem",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.23,
+      "kesilme": 0.15,
+      "morfem": 274.52
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_morfem",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.24666666666666667,
+      "kesilme": 0.13333333333333333,
+      "morfem": 270.18
+    },
+    {
+      "model": "qwen15",
+      "versiyon": "sade_morfem",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.21333333333333335,
+      "kesilme": 0.12333333333333334,
+      "morfem": 279.50666666666666
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "orijinal",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.38333333333333336,
+      "kesilme": 0.3466666666666667,
+      "morfem": 352.48
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "orijinal",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.37333333333333335,
+      "kesilme": 0.37333333333333335,
+      "morfem": 348.9433333333333
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "orijinal",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.3933333333333333,
+      "kesilme": 0.37,
+      "morfem": 354.4766666666667
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_kelime",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.3566666666666667,
+      "kesilme": 0.18333333333333332,
+      "morfem": 298.51666666666665
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_kelime",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.36,
+      "kesilme": 0.15666666666666668,
+      "morfem": 295.50333333333333
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_kelime",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.38,
+      "kesilme": 0.19333333333333333,
+      "morfem": 297.73333333333335
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_morfem",
+      "tohum": 0,
+      "n": 300,
+      "dogruluk": 0.39666666666666667,
+      "kesilme": 0.18333333333333332,
+      "morfem": 291.8
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_morfem",
+      "tohum": 1,
+      "n": 300,
+      "dogruluk": 0.35,
+      "kesilme": 0.17,
+      "morfem": 282.55
+    },
+    {
+      "model": "qwen3",
+      "versiyon": "sade_morfem",
+      "tohum": 2,
+      "n": 300,
+      "dogruluk": 0.4,
+      "kesilme": 0.19,
+      "morfem": 298.87333333333333
+    }
+  ],
+  "R3-2_anova_dogruluk": {
+    "kaynaklar": {
+      "C(model)": {
+        "KT": 0.457919,
+        "sd": 3,
+        "F": 535.8104,
+        "p": 0.0,
+        "kismi_eta2": 0.9853
+      },
+      "C(versiyon)": {
+        "KT": 0.00278,
+        "sd": 2,
+        "F": 4.8787,
+        "p": 0.016677,
+        "kismi_eta2": 0.289
+      },
+      "C(model):C(versiyon)": {
+        "KT": 0.000561,
+        "sd": 6,
+        "F": 0.3283,
+        "p": 0.915451,
+        "kismi_eta2": 0.0758
+      },
+      "Residual": {
+        "KT": 0.006837,
+        "sd": 24,
+        "F": null,
+        "p": null,
+        "kismi_eta2": null
+      }
+    },
+    "r_kare": 0.9854,
+    "gozlem": 36
+  },
+  "R3-2_anova_kesilme": {
+    "kaynaklar": {
+      "C(model)": {
+        "KT": 0.140752,
+        "sd": 3,
+        "F": 189.0692,
+        "p": 0.0,
+        "kismi_eta2": 0.9594
+      },
+      "C(versiyon)": {
+        "KT": 0.186401,
+        "sd": 2,
+        "F": 375.5833,
+        "p": 0.0,
+        "kismi_eta2": 0.969
+      },
+      "C(model):C(versiyon)": {
+        "KT": 0.035044,
+        "sd": 6,
+        "F": 23.5369,
+        "p": 0.0,
+        "kismi_eta2": 0.8547
+      },
+      "Residual": {
+        "KT": 0.005956,
+        "sd": 24,
+        "F": null,
+        "p": null,
+        "kismi_eta2": null
+      }
+    },
+    "r_kare": 0.9838,
+    "gozlem": 36
+  },
+  "R3-2_anova_morfem": {
+    "kaynaklar": {
+      "C(model)": {
+        "KT": 6176.988043,
+        "sd": 3,
+        "F": 57.9577,
+        "p": 0.0,
+        "kismi_eta2": 0.8787
+      },
+      "C(versiyon)": {
+        "KT": 35508.458373,
+        "sd": 2,
+        "F": 499.7553,
+        "p": 0.0,
+        "kismi_eta2": 0.9766
+      },
+      "C(model):C(versiyon)": {
+        "KT": 1425.305746,
+        "sd": 6,
+        "F": 6.6867,
+        "p": 0.000295,
+        "kismi_eta2": 0.6257
+      },
+      "Residual": {
+        "KT": 852.62023,
+        "sd": 24,
+        "F": null,
+        "p": null,
+        "kismi_eta2": null
+      }
+    },
+    "r_kare": 0.9806,
+    "gozlem": 36
+  }
+}

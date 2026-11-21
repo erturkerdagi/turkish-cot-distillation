@@ -1,0 +1,17 @@
+model,training_condition,accuracy_pct,exhaustion_pct,morpheme_load,p_accuracy_vs_original,p_exhaustion_vs_original,n_test
+Qwen2.5-1.5B,Original,24.3,38.3,363.7,,,300
+Qwen2.5-1.5B,Morpheme-simplified,23.0,15.0,274.5,0.70798,<1e-15,300
+Qwen2.5-1.5B,Word-simplified,21.3,16.3,286.4,0.28924,<1e-15,300
+Qwen2.5-1.5B,Rule 1 only,24.3,25.7,331.9,1.00000,0.00013,300
+Qwen2.5-1.5B,Weight filter only,25.3,18.3,291.4,0.80719,<1e-15,300
+Qwen2.5-1.5B,Random deletion,25.0,22.3,307.1,0.89742,<1e-15,300
+Qwen2.5-1.5B,Uniform truncation,24.7,14.0,287.9,1.00000,<1e-15,300
+Qwen2.5-1.5B,Reference solutions,20.7,1.7,73.5,0.22840,<1e-15,300
+Qwen2.5-3B,Original,38.3,34.7,352.5,,,300
+Qwen2.5-3B,Morpheme-simplified,39.7,18.3,291.8,0.70354,<1e-15,300
+Qwen2.5-3B,Word-simplified,35.7,18.3,298.5,0.38905,<1e-15,300
+Qwen2.5-3B,Rule 1 only,35.3,33.7,345.6,0.34247,0.81755,300
+Qwen2.5-3B,Weight filter only,34.7,24.3,306.2,0.22840,0.00171,300
+Qwen2.5-3B,Random deletion,39.3,21.0,307.5,0.79484,0.00001,300
+Qwen2.5-3B,Uniform truncation,38.0,19.0,309.7,1.00000,<1e-15,300
+Qwen2.5-3B,Reference solutions,32.3,2.0,73.2,0.05666,<1e-15,300

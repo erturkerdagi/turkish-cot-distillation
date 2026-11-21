@@ -1,0 +1,140 @@
+{
+  "hedef_istatistikleri": {
+    "Original": {
+      "n": 525,
+      "cumle": 11.66,
+      "kelime": 164.2,
+      "token": 436.8,
+      "maks_token": 1972,
+      "kesilen": 2,
+      "kesilme_orani": 0.0038
+    },
+    "Morpheme-simplified": {
+      "n": 525,
+      "cumle": 7.86,
+      "kelime": 105.8,
+      "token": 287.9,
+      "maks_token": 898,
+      "kesilen": 0,
+      "kesilme_orani": 0.0
+    },
+    "Word-simplified": {
+      "n": 525,
+      "cumle": 8.17,
+      "kelime": 108.9,
+      "token": 295.9,
+      "maks_token": 898,
+      "kesilen": 0,
+      "kesilme_orani": 0.0
+    },
+    "Rule 1 only": {
+      "n": 525,
+      "cumle": 10.06,
+      "kelime": 146.5,
+      "token": 392.6,
+      "maks_token": 1947,
+      "kesilen": 1,
+      "kesilme_orani": 0.0019
+    },
+    "Weight filter only": {
+      "n": 525,
+      "cumle": 8.96,
+      "kelime": 116.7,
+      "token": 316.0,
+      "maks_token": 898,
+      "kesilen": 0,
+      "kesilme_orani": 0.0
+    },
+    "Random deletion": {
+      "n": 525,
+      "cumle": 8.07,
+      "kelime": 122.0,
+      "token": 330.5,
+      "maks_token": 1268,
+      "kesilen": 1,
+      "kesilme_orani": 0.0019
+    },
+    "Uniform truncation": {
+      "n": 525,
+      "cumle": 8.72,
+      "kelime": 130.2,
+      "token": 350.2,
+      "maks_token": 1937,
+      "kesilen": 1,
+      "kesilme_orani": 0.0019
+    },
+    "Reference solutions": {
+      "n": 525,
+      "cumle": 2.4,
+      "kelime": 36.2,
+      "token": 92.8,
+      "maks_token": 447,
+      "kesilen": 0,
+      "kesilme_orani": 0.0
+    }
+  },
+  "eslestirme_denetimi": {
+    "rastgele_ayni": 503,
+    "kesme_ayni": 67,
+    "kesme_daha_uzun": 457,
+    "n": 525,
+    "rastgele_ort_fark": 0.221,
+    "kesme_ort_fark": 0.869
+  },
+  "uzunluk_korelasyonu": {
+    "Qwen2.5-1.5B": {
+      "r": 0.8978,
+      "p": 0.00247,
+      "n": 8
+    },
+    "Qwen2.5-3B": {
+      "r": 0.947,
+      "p": 0.00036,
+      "n": 8
+    }
+  },
+  "son_cumle_korelasyonu": {
+    "Qwen2.5-1.5B": {
+      "r": 0.08,
+      "p": 0.85064
+    },
+    "Qwen2.5-3B": {
+      "r": 0.0467,
+      "p": 0.91259
+    }
+  },
+  "son_cumlede_cevap": {
+    "Original": 0.9962,
+    "Morpheme-simplified": 0.9448,
+    "Word-simplified": 0.9429,
+    "Rule 1 only": 0.9905,
+    "Weight filter only": 0.9124,
+    "Random deletion": 0.9295,
+    "Uniform truncation": 0.9962,
+    "Reference solutions": 0.9924
+  },
+  "beklenmeyen_dosyalar": [
+    [
+      "qwen15_sade_kelime_b2048_n100 (1)",
+      100
+    ],
+    [
+      "qwen3_orijinal_b2048_n100 (1)",
+      100
+    ]
+  ],
+  "tohum_adaptorleri": {
+    "qwen15_orijinal_s1": "${PROJE_DIZINI}/modeller_tohum/qwen15_orijinal_s1",
+    "qwen15_orijinal_s2": "${PROJE_DIZINI}/modeller_tohum/qwen15_orijinal_s2",
+    "qwen15_sade_morfem_s1": "${PROJE_DIZINI}/modeller_tohum/qwen15_sade_morfem_s1",
+    "qwen15_sade_morfem_s2": "${PROJE_DIZINI}/modeller_tohum/qwen15_sade_morfem_s2",
+    "qwen15_sade_kelime_s1": "${PROJE_DIZINI}/modeller_tohum/qwen15_sade_kelime_s1",
+    "qwen15_sade_kelime_s2": "${PROJE_DIZINI}/modeller_tohum/qwen15_sade_kelime_s2",
+    "qwen3_orijinal_s1": "${PROJE_DIZINI}/modeller_tohum/qwen3_orijinal_s1",
+    "qwen3_orijinal_s2": "${PROJE_DIZINI}/modeller_tohum/qwen3_orijinal_s2",
+    "qwen3_sade_morfem_s1": "${PROJE_DIZINI}/modeller_tohum/qwen3_sade_morfem_s1",
+    "qwen3_sade_morfem_s2": "${PROJE_DIZINI}/modeller_tohum/qwen3_sade_morfem_s2",
+    "qwen3_sade_kelime_s1": "${PROJE_DIZINI}/modeller_tohum/qwen3_sade_kelime_s1",
+    "qwen3_sade_kelime_s2": "${PROJE_DIZINI}/modeller_tohum/qwen3_sade_kelime_s2"
+  }
+}

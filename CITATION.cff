@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or these results, please cite the paper below."
+title: "Target Length Rather Than Morphological Weighting Reduces Overthinking in Turkish Chain-of-Thought Distillation"
+abstract: >-
+  Code and analysis for a study of chain-of-thought distillation into small language
+  models for Turkish. Controlled, length-matched ablations show that the reduction in
+  token exhaustion is produced by the token length of the training target rather than
+  by the morphological criterion used to select which sentences to remove.
+authors:
+  - family-names: "Erdağı"
+    given-names: "Ertürk"
+    affiliation: "İstanbul Medeniyet University, Department of Computer Engineering"
+repository-code: "https://github.com/erturkerdagi/turkish-cot-distillation"
+license: MIT
+keywords:
+  - chain-of-thought distillation
+  - small language models
+  - overthinking
+  - agglutinative morphology
+  - Turkish
+  - knowledge distillation
+preferred-citation:
+  type: article
+  title: "Target Length Rather Than Morphological Weighting Reduces Overthinking in Turkish Chain-of-Thought Distillation"
+  authors:
+    - family-names: "Erdağı"
+      given-names: "Ertürk"
+      affiliation: "İstanbul Medeniyet University, Department of Computer Engineering"
+  journal: "Knowledge-Based Systems"
+  year: 2026
+  notes: "Under review (Ms. Ref. No. KNOSYS-D-26-20702); volume, pages and DOI to be added on publication."

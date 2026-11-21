@@ -1,0 +1,13 @@
+model,data_version,seed0_accuracy_pct,seed1_accuracy_pct,seed2_accuracy_pct,accuracy_mean,accuracy_sd,exhaustion_mean,exhaustion_sd,morpheme_mean,morpheme_sd,n_test
+Qwen2.5-0.5B,Original,9.3,11.0,11.7,10.7,1.20,28.1,0.96,330.8,2.07,300
+Qwen2.5-0.5B,Morpheme-simplified,10.0,9.0,8.3,9.1,0.84,10.6,0.77,248.9,9.76,300
+Qwen2.5-0.5B,Word-simplified,7.7,7.7,8.7,8.0,0.58,12.3,1.45,258.7,8.53,300
+Qwen2.5-1.5B,Original,24.3,24.7,26.3,25.1,1.07,35.6,2.41,359.5,5.36,300
+Qwen2.5-1.5B,Morpheme-simplified,23.0,24.7,21.3,23.0,1.67,13.6,1.35,274.7,4.67,300
+Qwen2.5-1.5B,Word-simplified,21.3,19.3,26.0,22.2,3.42,14.3,2.91,281.6,5.27,300
+Qwen2.5-3B,Original,38.3,37.3,39.3,38.3,1.00,36.3,1.45,352.0,2.80,300
+Qwen2.5-3B,Morpheme-simplified,39.7,35.0,40.0,38.2,2.80,18.1,1.02,291.1,8.19,300
+Qwen2.5-3B,Word-simplified,35.7,36.0,38.0,36.6,1.26,17.8,1.90,297.3,1.56,300
+Llama-3.2-3B,Original,34.0,38.3,36.0,36.1,2.17,10.4,1.58,323.5,6.24,300
+Llama-3.2-3B,Morpheme-simplified,35.3,35.0,34.0,34.8,0.69,6.9,0.84,272.2,5.87,300
+Llama-3.2-3B,Word-simplified,34.7,35.7,34.3,34.9,0.69,5.2,0.38,276.2,4.99,300

@@ -1,0 +1,5 @@
+model,condition,accuracy_pct,exhaustion_pct,n_test
+Qwen2.5-0.5B,Base (no fine-tuning),1.7,30.7,300
+Qwen2.5-1.5B,Base (no fine-tuning),13.3,24.7,300
+Qwen2.5-3B,Base (no fine-tuning),36.7,10.7,300
+Llama-3.2-3B,Base (no fine-tuning),27.3,12.3,300

@@ -1,0 +1,113 @@
+{
+  "sonuclar": [
+    {
+      "model": "Qwen2.5-0.5B",
+      "surum": "Original",
+      "dosya": "qwen05_orijinal.jsonl",
+      "alan_ortalama": 153.0,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-0.5B",
+      "surum": "Morpheme-simplified",
+      "dosya": "qwen05_sade_morfem.jsonl",
+      "alan_ortalama": 120.3,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-0.5B",
+      "surum": "Word-simplified",
+      "dosya": "qwen05_sade_kelime.jsonl",
+      "alan_ortalama": 121.3,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-1.5B",
+      "surum": "Original",
+      "dosya": "qwen15_orijinal.jsonl",
+      "alan_ortalama": 163.9,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-1.5B",
+      "surum": "Morpheme-simplified",
+      "dosya": "qwen15_sade_morfem.jsonl",
+      "alan_ortalama": 125.4,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-1.5B",
+      "surum": "Word-simplified",
+      "dosya": "qwen15_sade_kelime.jsonl",
+      "alan_ortalama": 130.2,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-3B",
+      "surum": "Original",
+      "dosya": "qwen3_orijinal.jsonl",
+      "alan_ortalama": 159.5,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-3B",
+      "surum": "Morpheme-simplified",
+      "dosya": "qwen3_sade_morfem.jsonl",
+      "alan_ortalama": 133.4,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Qwen2.5-3B",
+      "surum": "Word-simplified",
+      "dosya": "qwen3_sade_kelime.jsonl",
+      "alan_ortalama": 137.4,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Llama-3.2-3B",
+      "surum": "Original",
+      "dosya": "llama3_orijinal.jsonl",
+      "alan_ortalama": 153.1,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Llama-3.2-3B",
+      "surum": "Morpheme-simplified",
+      "dosya": "llama3_sade_morfem.jsonl",
+      "alan_ortalama": 132.8,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    },
+    {
+      "model": "Llama-3.2-3B",
+      "surum": "Word-simplified",
+      "dosya": "llama3_sade_kelime.jsonl",
+      "alan_ortalama": 131.7,
+      "alan_n": 300,
+      "metin_ortalama": null,
+      "metin_n": 0
+    }
+  ],
+  "uyarilar": []
+}
