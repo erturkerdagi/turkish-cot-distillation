@@ -43,8 +43,9 @@ extracted, the predicted and the true answer, and the generated text.
 
 ### Where to find them
 
-- **Hugging Face Hub** — datasets and adapters: <!-- TODO: add link before submission -->
-- **Zenodo** — archived snapshot of this repository with a citable DOI: <!-- TODO: add DOI before submission -->
+- **Hugging Face Hub** — data and per-item evaluation outputs: https://huggingface.co/datasets/erturkerdagi/turkish-cot-distillation
+- **Hugging Face Hub** — the 46 trained LoRA adapters: https://huggingface.co/erturkerdagi/turkish-cot-distillation-adapters
+- **Zenodo** — archived snapshot of this repository, DOI [10.5281/zenodo.24429605](https://doi.org/10.5281/zenodo.24429605) (concept DOI; always resolves to the latest version)
 
 The Zenodo DOI, not the GitHub URL, is the persistent identifier to cite and the one entered
 in the journal's data availability statement: a GitHub repository can change, a Zenodo record
