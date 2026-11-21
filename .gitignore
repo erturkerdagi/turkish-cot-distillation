@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Large artifacts are deposited separately — see DATA_AVAILABILITY.md
+*.safetensors
+*.bin
+*.pt
+modeller*/
+degerlendirme*/
+*.jsonl
+!results/**/*.jsonl
